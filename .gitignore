@@ -1,0 +1,12 @@
+# Foxconn-branded slide deck — kept locally for reference, not published
+presentation.pdf
+*.key
+*.pptx
+
+# Python / notebook artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
