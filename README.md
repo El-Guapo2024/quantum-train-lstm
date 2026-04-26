@@ -4,7 +4,7 @@ Reinforcement-learning-based Neural Architecture Search (NAS) over the Mapping M
 
 The best NAS-discovered RNN architecture **reduced testing perplexity from 98.81 → 17.62** — an 83% reduction (5.6× improvement) over the baseline MLP mapping. At a similar parameter budget, perplexity dropped to **31.73** (3.1× improvement).
 
-This work was completed during a summer 2024 research stay at Foxconn (Hon Hai) in Taipei, in collaboration with MIT, under the mentorship of Chen-Yu Liu.
+Completed during a summer 2024 research stay at Foxconn (Hon Hai) in Taipei while I was an MIT undergraduate, under the personal mentorship of Chen-Yu Liu.
 
 ---
 
@@ -66,4 +66,4 @@ Originally identified follow-ups:
 
 ## Acknowledgments
 
-Completed during a summer 2024 research stay at Foxconn (Hon Hai Precision Industry Co., Ltd.), Taipei, in collaboration with MIT. Mentor: Chen-Yu Liu.
+Completed during a summer 2024 research stay at Foxconn (Hon Hai Precision Industry Co., Ltd.), Taipei, while I was an MIT undergraduate. Personal mentorship by Chen-Yu Liu.
